@@ -1,2 +1,2 @@
 # audiosense-pi
-AudioSense-Pi is a RPi HAT based using TI's stereo codec
+AudioSense-Pi is a Open Source Harwdare Association (OSHWA), certified Raspberry Pi HAT based using TI's stereo codec
