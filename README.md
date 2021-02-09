@@ -51,7 +51,7 @@ Assembled Board
 #### Preparing the SD card
 
 We have three ways to setup audiosense
-1. Get the [prebuilt images](https://drive.google.com/file/d/1ZlVnPkCRNtnUToT88PGPvNIYpuG83I4y/view?usp=sharing), flash it into a SD card, fly away!
+1. Get the [prebuilt images](https://drive.google.com/file/d/10sPdlaTlowZFA2HO4iOQT1hiyIX3uXNR/view?usp=sharing), flash it into a SD card, fly away!
 2. Stay with the existing image you have, build the kernel yourself and flash only the kernel image
     * Pull the raspberry pi [kernel source](https://github.com/raspberrypi/linux.git)
     * Use [this](https://gist.github.com/b-ak/ecf6640241e12bd31bcc7e433fa60d40) script to build and flash the kernel image to the SD card
