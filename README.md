@@ -2,8 +2,8 @@
 
 <img src="./documentation/OSHW_Logo.png" width="400">
 
-**AudioSense-Pi** is a RPi HAT based on a TI's stereo codec.  
-It is **Open Source Harwdare Association (OSHWA)** certified with **_UID - IN000007_**
+**[AudioSense-Pi](https://certification.oshwa.org/in000007.html)** is a RPi HAT based on a TI's stereo codec.  
+It is **Open Source Harwdare Association (OSHWA)** certified with **_UID - IN000007_**  
 
 This hardware provides audio input capabilities to the RPi.   
 The codec connects to the RPi's SoC through the I2S Bus.
